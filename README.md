@@ -1,2 +1,3 @@
 # FlutterDoubleListDemo
 FlutterDoubleListDemo
+Flutter基于BloC的双表联动Demo
